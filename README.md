@@ -5,4 +5,4 @@ Repositorio criado para o desafio.
 # dio-desafio-github
 
 ## links uteis
-[sintaxe](https://www.google.com)
+[google](https://www.google.com)
